@@ -3,7 +3,7 @@ Ultimate Dataset Augmenter is a simple dataset augmenter for Advanced Programmin
 
 **Features:**
 - Square labeling
-- Augmentation based on rotation and resize and mirroring
+- Augmentation based on rotation and resizing and mirroring
 - Saving tags in both CSV and JSON formats
 - Beautiful and responsible GUI :)
 
